@@ -23,7 +23,6 @@ public class MashMallowMod {
         MinecraftForge.EVENT_BUS.register(this);
     }
 
-
     private void commonSetup(final FMLCommonSetupEvent event) {
 
     }
